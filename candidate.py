@@ -1,3 +1,6 @@
+
+#Author : Joonho Park, Chris Kim, Tyler Park, Taejin Kim
+
 import urllib, json
 from node import * 
 

@@ -1,3 +1,6 @@
+
+#Author : Joonho Park, Chris Kim, Tyler Park, Taejin Kim
+
 class Node():
 
 	def __init__(self,xCor,yCor, dHat, frequency,support):

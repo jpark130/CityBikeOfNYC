@@ -1,3 +1,5 @@
+#Author : Joonho Park, Chris Kim, Tyler Park, Taejin Kim
+
 from lib import * 
 import node
 

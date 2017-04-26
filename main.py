@@ -1,3 +1,7 @@
+#Author : Joonho Park, Chris Kim, Tyler Park, Taejin Kim
+
+
+
 import csv
 from node import *
 from lib import * 
